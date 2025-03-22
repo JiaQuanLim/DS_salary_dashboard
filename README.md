@@ -5,7 +5,8 @@
 Navigating the job market can be challenging, especially when it comes to understanding salary expectations for different roles. This data visualization app helps job seekers explore salary distributions based on job title, age, and gender. By interacting with the app, users can gain insights into monthly salary distribution, compare earnings across different roles, and make informed career decisions. Whether negotiating a job offer or planning a career switch, this tool provides valuable information to help users set realistic expectations and identify high-paying opportunities.
 
 # App Description
-https://github.ubc.ca/mds-2024-25/DSCI_532_individual-assignment_jiaquan/assets/3478/103f782b-72d9-4128-a568-263fcae3be4c
+
+https://github.com/user-attachments/assets/b21101f1-a3b9-4bc1-9c29-11d933e1a7a5
 
 
 
