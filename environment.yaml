@@ -1,0 +1,20 @@
+name: '532_individual_project'
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - ipykernel
+    - altair-all
+    - dash
+    - dash-bootstrap-components
+    - plotly
+    - tabulate  # df.to_markdown()
+    - lxml  # pd.read_html()
+    - r-base
+    - r-tidyverse
+    - r-shiny
+    - r-languageserver
+    - r-plotly
+    - pip
+    - pip:
+        - dash-vega-components
